@@ -12,8 +12,6 @@ Welcome to the Movie Genre Classification model repository! This project aims to
 - [Model Training](#model-training)
 - [Evaluation](#evaluation)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
